@@ -22,7 +22,7 @@
 ## Arsitektur Aplikasi
 Proyek ini berisi:
 1. **Backend Python (FastAPI)**: endpoint API untuk simulasi AI auto-contouring.
-2. **Frontend React (Vite)**: antarmuka untuk input kasus pasien dan menampilkan output metrik.
+2. **Frontend React (Vite + Tailwind CSS)**: antarmuka untuk input kasus pasien dan menampilkan output metrik.
 
 ```
 AutoContour-One/
